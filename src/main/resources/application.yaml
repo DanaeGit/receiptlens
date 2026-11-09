@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: receiptlens
+  jpa:
+    open-in-view: false
