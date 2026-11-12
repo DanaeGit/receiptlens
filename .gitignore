@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Personal notes (local only) ###
+docs/devlog/
